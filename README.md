@@ -1,4 +1,5 @@
-# Databricks Exploration (Untitled Project)
+# Databricks Exploration 
+# (Untitled Project)
 Since I cannot connect Databricks to GitHub using the community version, this repository exists as a dump for my databricks notebooks.  
 
 ## Objective: 
