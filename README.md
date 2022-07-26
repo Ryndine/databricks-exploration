@@ -30,7 +30,7 @@ Create models and visualization tools for analyzing video game user trends utili
 </table>
 
 ## Outline
-Observe impact Steam featured page has on game viewership on Twitch.  
+Observe the impact Steam featured page has on game viewership on Twitch.  
 Expand project beyond initial scope to observe possible trends with updates/news.  
 Explore marketing optimizations for game companies.
 
