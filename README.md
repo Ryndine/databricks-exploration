@@ -36,8 +36,8 @@ Explore marketing optimizations for game companies.
 
 **API / Scraping**
 - Twitter API to collect game viewership
-- Steam Store API calls to collect user data based on featured top twitch games.
-- Scrape featured / updated games from steam store front and run API calls for those games.
+- Scrape featured / updated games from steam store front and run API calls for those games
+- Steam Store API calls to collect user data based on scraped games.
 - (Optional) Expand API / Scraping to additonal platforms for more data such as Youtube.
 - Setup scripts to run daily.
 
