@@ -48,5 +48,5 @@ Explore marketing optimizations for game companies.
 **Models**
 - Explore best models for predicting trends.
 
-**Visualization**
-Create a dashboard app to allow for user friendly interactive visuals and filtering for exploration into data.
+**Visualization**  
+- Create a dashboard app to allow for user friendly interactive visuals and filtering for exploration into data.
