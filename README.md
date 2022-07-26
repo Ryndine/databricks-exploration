@@ -2,7 +2,8 @@
 Since I cannot connect Databricks to GitHub using the community version, this repository exists as a dump for my databricks notebooks.  
 
 ## Objective: 
-Utilizing the Databricks platform to create a more efficient work envrionment for my project teams.
+Utilizing the Databricks platform to create a more efficient work envrionment for my project teams.  
+Create models and visualization tools for analyzing video game user trends utilizing the databricks platform.
 
 ## Tools | Database
 <table border="0" >
@@ -26,3 +27,25 @@ Utilizing the Databricks platform to create a more efficient work envrionment fo
     <td width="200px"><li>Beautiful Soup</li></td>
  </tr>
 </table>
+
+## Outline
+Observe impact Steam featured page has on game viewership on Twitch.  
+Expand project beyond initial scope to observe possible trends with updates/news.  
+Explore marketing optimizations for game companies.
+
+**API / Scraping**
+- Twitter API to collect game viewership
+- Steam Store API calls to collect user data based on featured top twitch games.
+- Scrape featured / updated games from steam store front and run API calls for those games.
+- (Optional) Expand API / Scraping to additonal platforms for more data such as Youtube.
+- Setup scripts to run daily.
+
+**Database**
+- Store data into AWS Databricks.
+- Setup scripts to pull only new data, and clean for analysis tools.
+
+**Models**
+- Explore best models for predicting trends.
+
+**Visualization**
+Create a dashboard app to allow for user friendly interactive visuals and filtering for exploration into data.
