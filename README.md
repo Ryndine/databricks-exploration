@@ -41,9 +41,10 @@ Explore marketing optimizations for game companies.
 - (Optional) Expand API / Scraping to additonal platforms for more data such as Youtube.
 - Setup scripts to run daily.
 
-**Database**
+**Database / S3**
 - Store data into AWS Databricks.
 - Setup scripts to pull only new data, and clean for analysis tools.
+- Utilize S3 to share files between team (GitHub connectivity not available for Databricks CE).
 
 **Models**
 - Explore best models for predicting trends.
